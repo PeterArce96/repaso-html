@@ -30,3 +30,14 @@ ELEMENTOS REEMPLAZABLES - no hace falta cerrar las etiquetas, se reemplazan por 
     <input type="color">
     <input type="file">
 <br>
+
+ATRIBUTO
+src = atributo, proporcionan información adicional a los elementos HTML
+
+2 TIPOS DE ATRIBUTOS
+    -GLOBALES ( se pueden utilizar en cualquier etiqueta HTML "class", "id", etc), 
+
+    -ESPECÍFICOS (de etiqueta "src") 
+    <img alt=""> --> alt = descripcion alternativa en formato texto, en lugar de que la imagen no se pueda cargar
+    <img title=""> = Información relacionada con la imagen, no tan descriptiva.
+
