@@ -41,3 +41,7 @@ src = atributo, proporcionan información adicional a los elementos HTML
     <img alt=""> --> alt = descripcion alternativa en formato texto, en lugar de que la imagen no se pueda cargar
     <img title=""> = Información relacionada con la imagen, no tan descriptiva.
 
+DETALLE IMPORTANTE DE ATRIBUTOS
+Las comillas no son obligatorias, son opcionales, a no ser que tengas un espacio
+(width=200)
+(title="Foto de midudev")
