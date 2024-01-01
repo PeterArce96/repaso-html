@@ -20,3 +20,13 @@ Pero todo (<h1>Portfolio de midudev</h1>) es un ELEMENTO
 <strong></strong> --> Escribir en negrita, dar énfasis
 <ul></ul> -->Unordered List, lista desordenada
 <li></li> --> list item
+
+ELEMENTOS REEMPLAZABLES - no hace falta cerrar las etiquetas, se reemplazan por un widget o elementos multimedia, etc
+<img> 
+<input>
+    <input type="text">
+    <input type="datetime-local">
+    <input type="button">
+    <input type="color">
+    <input type="file">
+<br>
