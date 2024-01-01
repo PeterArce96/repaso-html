@@ -71,3 +71,6 @@ Dar alguna información secundaria, una aclaración corta, etc
 
 ETIQUETA ASIDE
 Algo que esta separado del contenido principal, anexo al contenido, complementar a la información principal que mostramos
+
+ETIQUETA SECTION
+Abarcar secciones independientes genéricas de un documento
