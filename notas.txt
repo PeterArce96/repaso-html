@@ -50,3 +50,8 @@ Atributos Booleanos
 Si el atributo está, simplemente desaparece el elemento.
 <img src="./" hidden>
 -hidden -->ocultar el elemento, siempre es true
+
+ATRIBUTOS GLOBALES
+id --> identificador, el valor solo se puede usar para un único elemento
+cladd
+class --> identificar elementos que se repiten
