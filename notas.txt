@@ -74,3 +74,6 @@ Algo que esta separado del contenido principal, anexo al contenido, complementar
 
 ETIQUETA SECTION
 Abarcar secciones independientes genéricas de un documento
+
+ETIQUETA MAIN 
+Solo puede haber UNA en todo el documento y engloba el contenido principal de la página
