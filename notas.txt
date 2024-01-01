@@ -68,3 +68,6 @@ elemento con información propia contenida que si extraemos esa parte a otro sit
 
 ETIQUETA SMALL
 Dar alguna información secundaria, una aclaración corta, etc
+
+ETIQUETA ASIDE
+Algo que esta separado del contenido principal, anexo al contenido, complementar a la información principal que mostramos
