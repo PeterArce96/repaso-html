@@ -65,3 +65,6 @@ Por ejemplo la etiqueta <p></p> --> entendemos que es un párrafo
 
 ETIQUETA ARTICLE
 elemento con información propia contenida que si extraemos esa parte a otro sitio, sigue teniendo sentido
+
+ETIQUETA SMALL
+Dar alguna información secundaria, una aclaración corta, etc
