@@ -13,4 +13,10 @@ Como se ve el contenido, Presentación, estilos- CSS
 ETIQUETAS
 (h1) es la etiqueta (De abertura y de cierre)
 Pero todo (<h1>Portfolio de midudev</h1>) es un ELEMENTO
---Es recomendable usar solo minusculase en las etiquetas
+--Es recomendable usar solo minusculas en las etiquetas
+
+<h1></h1> --> Crear un título
+<p></p> --> Texto o parrafo
+<strong></strong> --> Escribir en negrita, dar énfasis
+<ul></ul> -->Unordered List, lista desordenada
+<li></li> --> list item
