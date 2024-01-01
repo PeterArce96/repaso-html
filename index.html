@@ -134,11 +134,32 @@
             <form method="post" action="/">
                 <fieldset>
                     <legend>Información personal</legend>
-                    <label> Nombre: 
+                    <!-- colocamos el div solo para hacerlo elemento de bloque -->
+                    <div>
+                        <label> Nombre: 
+                            <input 
+                                type="text" 
+                                name="name" placeholder="Midudev">
+                        </label>
+                    </div>
+                    
+
+                    <label> Email: 
                         <input 
-                            type="text" 
-                            name="name" placeholder="Midudev">
+                            type="email" 
+                            name="name" placeholder="midudev1@gmail.com">
                     </label>
+                    
+                </fieldset>
+                <fieldset>
+                    <legend>Información Adicional</legend>
+                    <div>
+                        <label> Teléfono: 
+                            <input 
+                                type="tel" 
+                                name="name" placeholder="958798549">
+                        </label>
+                    </div>
                     
                 </fieldset>
             </form>
