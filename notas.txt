@@ -58,3 +58,10 @@ class --> identificar elementos que se repiten
 
 ESTILOS POR DEFECTO DE LOS NAVEGADORES
 los navegadores ya tienen algunos estilos por defecto llamados "user agent stylesheet"
+
+HTML SEMÁNTICO
+Tiene un significado, describir el contenido de forma correcta. No usar puro <div></div>
+Por ejemplo la etiqueta <p></p> --> entendemos que es un párrafo
+
+ETIQUETA ARTICLE
+elemento con información propia contenida que si extraemos esa parte a otro sitio, sigue teniendo sentido
