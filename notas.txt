@@ -1,0 +1,8 @@
+HTML
+HyperText Markup Language - Lenguage de marcado de hipertexto
+    -Como se marca el contenido
+    -Como describir el contenido
+    -DESCRIBIR EL CONTENIDO
+    -Permite indicar la estructura de nuestro documento mediante etiquetas
+    -Porque se crea un archivo index.html. De forma clásica lo que hace el navegador es buscar el archivo index.html como punto de entrada
+    -Se busca crear elementos
