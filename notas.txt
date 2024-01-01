@@ -6,3 +6,11 @@ HyperText Markup Language - Lenguage de marcado de hipertexto
     -Permite indicar la estructura de nuestro documento mediante etiquetas
     -Porque se crea un archivo index.html. De forma clásica lo que hace el navegador es buscar el archivo index.html como punto de entrada
     -Se busca crear elementos
+
+Como interactua el contenido, interactividad - Javascript
+Como se ve el contenido, Presentación, estilos- CSS
+
+ETIQUETAS
+(h1) es la etiqueta (De abertura y de cierre)
+Pero todo (<h1>Portfolio de midudev</h1>) es un ELEMENTO
+--Es recomendable usar solo minusculase en las etiquetas
