@@ -76,4 +76,9 @@ ETIQUETA SECTION
 Abarcar secciones independientes genéricas de un documento
 
 ETIQUETA MAIN 
-Solo puede haber UNA en todo el documento y engloba el contenido principal de la página
+Solo puede haber UNA en todo el documento y engloba el contenido principal de la página, tiene que ser única de la página. No puede ser una cabezar o un footer porque se repite en varias páginas
+
+ETIQUETA ANCHOR o ancla (a)
+Crea un enlace a otra páginas de internet, archivos o ubicaciones dentro de la misma página
+atributo target="_blank" --> para abrir el enlace en otra pestaña del navegador
+atributo rel= "noreferrer"  --> No va enviar la cabecera de referrer, que no le dé información a la siguiente página del enlace
