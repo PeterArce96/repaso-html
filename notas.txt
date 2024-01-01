@@ -45,3 +45,8 @@ DETALLE IMPORTANTE DE ATRIBUTOS
 Las comillas no son obligatorias, son opcionales, a no ser que tengas un espacio
 (width=200)
 (title="Foto de midudev")
+
+Atributos Booleanos
+Si el atributo está, simplemente desaparece el elemento.
+<img src="./" hidden>
+-hidden -->ocultar el elemento, siempre es true
