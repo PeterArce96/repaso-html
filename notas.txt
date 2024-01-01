@@ -85,3 +85,10 @@ atributo rel= "noreferrer"  --> No va enviar la cabecera de referrer, que no le 
 
 ATRIBUTO ROLE 
 Hay momentos donde necesitas que una etiqueta tenga un rol en concreto. Pero es recomendable usar las etiquetas correspondientes
+
+ELEMENTO FIELDSET
+(grupo de campos), permite organizar en grupos los campos de un formulario
+ELEMENTO LEGEND
+(leyenda), crea un título para un grupo de campos de un formulario
+ELEMENTO LABEL
+Etiqueta para un elemento en una interfaz de usuario. Se asocia con un control (input) mediante el atributo FOR o ubicandolo dentro del label
