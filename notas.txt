@@ -55,3 +55,6 @@ ATRIBUTOS GLOBALES
 id --> identificador, el valor solo se puede usar para un único elemento
 cladd
 class --> identificar elementos que se repiten
+
+ESTILOS POR DEFECTO DE LOS NAVEGADORES
+los navegadores ya tienen algunos estilos por defecto llamados "user agent stylesheet"
