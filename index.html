@@ -77,14 +77,16 @@
         
         <!-- download, solo funciona con recursos que tengas en tu propio dominio -->
         <a download href="./images/Peter.1.jpg">
+            <!-- el atributo loading="lazy" carga la imagen solo cuando se necesita, carga cuando ya han cargado los demas recursos o cuando se acerque el scroll a ella. No es recomendable usarla con imagenes que estén arriba o se carguen con la primera imagen de la página-->
             <img
+            loading="lazy"
             id="photo-image"
-            width="200"
-            height="200"
+            style="width: 100%; aspect-ratio: 1/1;"
             title="foto de midudev" 
             src="./images/Peter.1.jpg" 
             alt="foto de midudev mirando a la izquierda"
             >
+            <!-- aspect-ratio- para que use la relación de aspecto de la imagen (Navegador-inspeccionar-network-seleccion de imagen-preview-leyenda de abajo 1:1) -->
         </a>
         
 
