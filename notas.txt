@@ -98,3 +98,6 @@ Por defecto los botones que están dentro de un formulario (<form></form>) son d
 
 iFRAME
 Es una etiqueta especial que permite incrustar otra página web. Hay páginas que no se permiten incrustar
+
+Etiqueta Dialog
+nueva

@@ -40,7 +40,7 @@
 
         <!-- los "allow" en un iframe son todos los servicios que permites a este iframe que pueda obtener de tu página o dispositivo -->
         <!-- También puedes ponerle el aspect-ratio -->
-        <iframe style="width: 100%; aspect-ratio: 16/9;"  src="https://www.youtube.com/embed/3nYLTiY5skU?si=WgxfydGUMS4ayZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <!-- <iframe style="width: 100%; aspect-ratio: 16/9;"  src="https://www.youtube.com/embed/3nYLTiY5skU?si=WgxfydGUMS4ayZtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
         <nav>
             <!-- enlaces internos -->
@@ -54,6 +54,23 @@
             >Twitch</a>
         </nav>
     </header>
+
+    <dialog id="dialog">
+        <h1>Sabías que puedes abrir una modal así?</h1>
+        <p>¡Y es totalmente Nativo!</p>
+        <button id="hide">Cerrar modal</button>
+    </dialog>
+    <button id="show">Ver más información</button>
+
+    <script>
+        window.show.addEventListener('click',() => {
+            window.dialog.showModal()
+        })
+
+        window.hide.addEventListener('click', () => {
+            window.dialog.close()
+        })
+    </script>
 
     <!-- Etiqueta Video
         controls - para darle controles como play, pause, etc
