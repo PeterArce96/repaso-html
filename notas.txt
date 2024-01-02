@@ -95,3 +95,6 @@ Etiqueta para un elemento en una interfaz de usuario. Se asocia con un control (
 
 Input Submit o Button Submit
 Por defecto los botones que están dentro de un formulario (<form></form>) son de tipo Submit 
+
+iFRAME
+Es una etiqueta especial que permite incrustar otra página web. Hay páginas que no se permiten incrustar
