@@ -139,7 +139,7 @@
                         <label> Nombre: 
                             <input 
                                 type="text" 
-                                name="name" placeholder="Midudev">
+                                name="name" placeholder="Midudev" required>
                         </label>
                     </div>
                     
@@ -147,7 +147,7 @@
                     <label> Email: 
                         <input 
                             type="email" 
-                            name="name" placeholder="midudev1@gmail.com">
+                            name="name" placeholder="midudev1@gmail.com" required>
                     </label>
                     
                 </fieldset>
@@ -157,11 +157,30 @@
                         <label> Teléfono: 
                             <input 
                                 type="tel" 
-                                name="name" placeholder="958798549">
+                                name="name" placeholder="958798549" required pattern="[0-9]{9}">
                         </label>
                     </div>
                     
                 </fieldset>
+                <fieldset>
+                    <legend>Otros</legend>
+                    <div>
+                        <label for="why"> ¿Por qué quieres contactar? </label>
+                        <select name="why" id="why">
+                            <option value="1">Trabajo</option>
+                            <option value="2">Duda</option>
+                            <option value="3">Más información</option>
+                        </select>
+                    </div>
+                    
+                    <div>
+                        <label for="terms">¿Aceptas los términos?</label>
+                        <input type="checkbox" id="terms" name="terms" required>
+                    </div>
+                </fieldset>
+
+                <input type="submit" value="Enviar Contacto">
+
             </form>
         </section>
     </main>
